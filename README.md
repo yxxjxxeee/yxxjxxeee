@@ -1,4 +1,4 @@
-<h2 align="center">✨ About Me ✨</h2>
+<h1 align="center">✨ About Me ✨</h1>
 <div align="center">
 안녕하세요! yxxjxxeee입니다 (≧∇≦)ﾉ<br>
 백엔드 개발자를 희망하고 있습니다.<br>
@@ -7,7 +7,7 @@
 
 <br>
 
-<h2 align="center">✨ Tech Stacks ✨</h2>
+<h1 align="center">✨ Tech Stacks ✨</h1>
 
 <h3 align="center">🚀 Languages & Frameworks</h3>
 <div align="center">
@@ -30,7 +30,7 @@
 
 <br>
 
-<h2 align="center">✨ Contact ✨</h2>
+<h1 align="center">✨ Contact ✨</h1>
 <div align="center">
   <a href="https://yje44428.tistory.com" style="text-decoration: none; outline: none;">
     <img src="https://img.shields.io/badge/tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff">
