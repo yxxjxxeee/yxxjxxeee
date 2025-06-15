@@ -1,44 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Wave&color=ebfffc&height=250&section=header&text=yxxjxxeee&fontSize=90">
-  <div align="center">
-  안녕하세요! yxxjxxeee입니다 (≧∇≦)ﾉ<br>
-  백엔드 개발자를 희망하고 있습니다.<br>
+  <img src="https://capsule-render.vercel.app/api?type=Wave&animation=fadeIn&color=ECFAE5&height=150&section=header&text=안녕하세요!%20yxxjxxeee입니다%20(≧∇≦)ﾉ&fontSize=30&fontColor=A7C1A8" /><br/>
+  백엔드 개발자를 희망하고 있습니다.<br/>
   꾸준히 성장하는 개발자가 되기 위해 노력 중입니다 💪
-  </div>
 </div>
 
-<br>
-
-<h2 align="center">🛠️ Tech Stacks</h2>
-
-<h3 align="center">🚀 Languages & Frameworks</h3>
+<h2 align="center">☘️ Tech Stacks</h2>
+<h3 align="center">Languages & Frameworks</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" >
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
-
-<h3 align="center" style="margin-top: 20px;">🗃️ Databases</h3>
+<h3 align="center" style="margin-top: 20px;">Databases</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
-<h3 align="center" style="margin-top: 20px;">☁️ DevOps & Tools</h3>
+<h3 align="center" style="margin-top: 20px;">DevOps & Tools</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<br>
+<br/>
 
-<h2 align="center">📫 Contact</h2>
+<h2 align="center">☘️ Contact</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/yje44428.tistory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/c0d1ngyje@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/yje44428.tistory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/c0d1ngyje@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yxxjxxeee&utm_content=farm" target="_blank" style="text-decoration: none; outline: none;">
