@@ -1,9 +1,9 @@
-## ✨ About Me ✨
+# ✨ About Me ✨
 안녕하세요! yxxjxxeee입니다 (≧∇≦)ﾉ  
 백엔드 개발자를 희망하고 있습니다.  
 꾸준히 성장하는 개발자가 되기 위해 노력 중입니다 💪
 
-## ✨ Tech Stacks ✨
+# ✨ Tech Stacks ✨
 
 ### 🚀 Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -22,6 +22,13 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 -->
 
-## ✨ Contact ✨
+# ✨ Contact ✨
 - 📧 Email: c0d1ngyje@gmail.com
-- 📝 Blog: [개발 블로그](https://yje44428.tistory.com)  
+- 📝 Blog: https://yje44428.tistory.com 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yxxjxxeee&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yxxjxxeee"
+  width="600"
+  height="300"
+/>
+</a>
