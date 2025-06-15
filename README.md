@@ -1,13 +1,15 @@
-<h2 align="center">✨ About Me ✨</h2>
 <div align="center">
-안녕하세요! yxxjxxeee입니다 (≧∇≦)ﾉ<br>
-백엔드 개발자를 희망하고 있습니다.<br>
-꾸준히 성장하는 개발자가 되기 위해 노력 중입니다 💪
+  <img src="https://capsule-render.vercel.app/api?type=Wave&color=ebfffc&height=250&section=header&text=yxxjxxeee&fontSize=90">
+  <div align="center">
+  안녕하세요! yxxjxxeee입니다 (≧∇≦)ﾉ<br>
+  백엔드 개발자를 희망하고 있습니다.<br>
+  꾸준히 성장하는 개발자가 되기 위해 노력 중입니다 💪
+  </div>
 </div>
 
 <br>
 
-<h2 align="center">✨ Tech Stacks ✨</h2>
+<h2 align="center">🛠️ Tech Stacks</h2>
 
 <h3 align="center">🚀 Languages & Frameworks</h3>
 <div align="center">
@@ -30,7 +32,7 @@
 
 <br>
 
-<h2 align="center">✨ Contact ✨</h2>
+<h2 align="center">📫 Contact</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/yje44428.tistory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff">
     <img src="https://img.shields.io/badge/c0d1ngyje@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
