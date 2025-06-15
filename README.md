@@ -28,8 +28,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/yje44428.tistory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/c0d1ngyje@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yxxjxxeee&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/yxxjxxeee" width="600" height="300"/>
+  </a>
 </div>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yxxjxxeee&utm_content=farm">
-<img src="https://render.gitanimals.org/farms/yxxjxxeee" width="600" height="300"/>
-</a>
