@@ -1,4 +1,4 @@
-## 안녕하세요 yxxjxxeee입니다 (≧∇≦)ﾉ
+안녕하세요 yxxjxxeee입니다 (≧∇≦)ﾉ
 
 <!--
 **yxxjxxeee/yxxjxxeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
