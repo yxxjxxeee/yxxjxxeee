@@ -32,7 +32,7 @@
 
 <h2 align="center">✨ Contact ✨</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/yje44428@tisory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/yje44428.tistory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff">
     <img src="https://img.shields.io/badge/c0d1ngyje@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
