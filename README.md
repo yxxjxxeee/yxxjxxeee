@@ -30,8 +30,6 @@
   <img src="https://img.shields.io/badge/c0d1ngyje@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yxxjxxeee&utm_content=farm" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://render.gitanimals.org/farms/yxxjxxeee" width="600" height="300" />
-  </a>
-</div>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yxxjxxeee&utm_content=farm">
+<img src="https://render.gitanimals.org/farms/yxxjxxeee" width="600" height="300"/>
+</a>
