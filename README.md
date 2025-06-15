@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Wave&animation=fadeIn&color=ECFAE5&height=150&section=header&text=안녕하세요!%20yxxjxxeee입니다%20(≧∇≦)ﾉ&fontSize=30&fontColor=A7C1A8" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=Wave&animation=fadeIn&color=ECFAE5&height=150&section=header&text=안녕하세요!%20yxxjxxeee입니다%20(≧∇≦)ﾉ&fontSize=30&fontColor="eeeee" /><br/>
   백엔드 개발자를 희망하고 있습니다.<br/>
   꾸준히 성장하는 개발자가 되기 위해 노력 중입니다 💪
 </div>
 
-<h2 align="center">☘️ Tech Stacks</h2>
+<h2 align="center">🌿 Tech Stacks</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -15,15 +15,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<br/>
-
-<h2 align="center">☘️ Contact</h2>
+<h2 align="center">🌿 Contact</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/yje44428.tistory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/c0d1ngyje@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yxxjxxeee&utm_content=farm" target="_blank" style="text-decoration: none; outline: none;">
