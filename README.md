@@ -4,7 +4,7 @@
   꾸준히 성장하는 개발자가 되기 위해 노력 중입니다 💪
 </div>
 
-<h2 align="center">🌿 Tech Stacks</h2>
+<h2 align="center">🌿 Tech Stacks 🌿</h2>
   <h3 align="center">Language & Framework</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<h2 align="center">🌿 Contact</h2>
+<h2 align="center">🌿 Contact 🌿</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/yje44428.tistory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/c0d1ngyje@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
