@@ -32,12 +32,8 @@
 
 <h2 align="center">✨ Contact ✨</h2>
 <div align="center">
-  <a href="https://yje44428.tistory.com" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff">
-  </a>
-  <a href="mailto:c0d1ngyje@gmail.com" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/yje44428@tisory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=ffffff">
     <img src="https://img.shields.io/badge/c0d1ngyje@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </div>
 
 <br>
