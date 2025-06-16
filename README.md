@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Wave&animation=fadeIn&color=ECFAE5&height=180&section=header&text=yxxjxxeee&fontSize=80&fontColor="eeeee" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&animation=fadeIn&color=ECFAE5&height=180&section=header&text=yxxjxxeee&fontSize=80&fontColor="eeeee" /><br/>
   안녕하세요! yxxjxxeee입니다 (≧∇≦)ﾉ<br/>
   백엔드 개발자를 희망하고 있습니다.<br/>
   꾸준히 성장하는 개발자가 되기 위해 노력 중입니다 ( •̀ ω •́ )✧
