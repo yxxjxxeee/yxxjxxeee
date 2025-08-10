@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=35&duration=2000&pause=1000&color=000000&vCenter=true&width=435&lines=Hello%2C+World!+I'm+jieun!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+jieun%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+World!+I'm+jieun!" alt="Typing SVG" /></a>
 <h3>🛠️ Tech Stacks</h3>
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
