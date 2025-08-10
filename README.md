@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+World!+I'm+jieun!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Modak&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&height=100&lines=Hello%2C+World!+I'm+jieun!" alt="Typing SVG" />
 
 <h3>🛠️ Tech Stacks</h3>
 <div>
