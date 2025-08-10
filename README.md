@@ -1,10 +1,4 @@
-<h3>👋 About Me</h3>
-<div>
-  개발하는 게 즐거워 꾸준히 파고드는 백엔드 개발자 <strong>yxxjxxeee</strong>입니다.<br />
-  교내 동아리 <code>모던애자일</code> 10기 백엔드 팀장으로 활동 중입니다.
-</div>
-
-<h3>🛠️ Tech Stacks</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=30&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!+I'm+jieun!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+jieun%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a><h3>🛠️ Tech Stacks</h3>
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
