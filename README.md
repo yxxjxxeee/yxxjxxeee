@@ -18,6 +18,6 @@
 
 <h4>🐙 GitHub Stats</h4>
 <div>
-  <a href="https://github.com/yxxjxxeee/github-readme-stats" style="margin-right:10px;"><img src="https://github-readme-stats.vercel.app/api?username=yxxjxxeee&hide=stars&count_private=true" alt="yxxjxxeee's GitHub stats" style="height: 150px;" /></a>
+  <a href="https://github.com/yxxjxxeee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=yxxjxxeee&hide=stars&count_private=true" alt="yxxjxxeee's GitHub stats" style="height: 150px;" /></a>
   <a href="https://github.com/yxxjxxeee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxjxxeee&layout=compact" alt="Top languages" style="height: 150px;" /></a>
 </div>
