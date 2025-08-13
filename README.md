@@ -18,5 +18,5 @@
 
 <h3>🐱 Git Animals</h3>
 <div>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yxxjxxeee&utm_content=farm" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://render.gitanimals.org/farms/yxxjxxeee" style="width: 500px" /></a>
+  <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/yxxjxxeee" style="width:500px" /></a>
 </div>
