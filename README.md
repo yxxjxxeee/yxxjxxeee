@@ -16,7 +16,7 @@
   <a href="mailto:c0d1ngyje@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="height: 25px;" /></a>
 </div> 
 
-<h3>🐙 GitHub Stats</h3>
+<h3>📊 GitHub Stats</h3>
 <div>
   <a href="https://github.com/yxxjxxeee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=yxxjxxeee&hide=stars&count_private=true" alt="yxxjxxeee's GitHub stats"/></a>
   <a href="https://github.com/yxxjxxeee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxjxxeee&layout=compact" alt="Top languages"/></a>
