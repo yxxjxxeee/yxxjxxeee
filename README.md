@@ -16,7 +16,8 @@
   <a href="mailto:c0d1ngyje@gmail.com" style="display:inline-block;"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </div> 
 
-<h3>🐱 Git Animals</h3>
+<h3>🐙 GitHub Stats</h3>
 <div>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yxxjxxeee&utm_content=farm" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://render.gitanimals.org/farms/yxxjxxeee" style="width: 500px" /></a>
+  <a href="https://github.com/yxxjxxeee/github-readme-stats" style="margin-right:10px;"><img src="https://github-readme-stats.vercel.app/api?username=yxxjxxeee&hide=stars" alt="yxxjxxeee's GitHub stats" style="height: 150px;" /></a>
+  <a href="https://github.com/yxxjxxeee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxjxxeee&layout=compact" alt="Top languages" style="height: 150px;" /></a>
 </div>
