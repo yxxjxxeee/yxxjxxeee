@@ -18,6 +18,7 @@
 
 <h3>📊 GitHub Stats</h3>
 <div>
-  <a href="https://github.com/yxxjxxeee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=yxxjxxeee&hide=stars&count_private=true" alt="yxxjxxeee's GitHub stats"/></a>
-  <a href="https://github.com/yxxjxxeee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxjxxeee&layout=compact" alt="Top languages"/></a>
+   [![yxxjxxeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxjxxeee&hide=stars&count_private=true)](https://github.com/yxxjxxeee)
+  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxxjxxeee&layout=compact)](https://github.com/yxxjxxeee)
+</div>
 </div>
