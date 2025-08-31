@@ -1,6 +1,6 @@
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Modak&size=45&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&height=100&lines=Hello%2C+World!+I'm+jieun!" alt="Typing SVG" /></a>-->
 
-<h3>🛠️ Tech Stacks</h3> 
+<h3>✏️ Skills</h3> 
 <div> 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" style="height:23px;" /> 
@@ -17,7 +17,10 @@
   <!-- Database / ORM -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="height:23px;" /> 
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" style="height:23px;" /> 
-  <br/>
+</div>
+
+<h3>💻 Tools</h3>
+<div>
   <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" style="height:23px;" /> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" style="height:23px;" />
