@@ -5,7 +5,7 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" style="height:23px;" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="height:23px;" /> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" style="height:23px;" /> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" style="height:23px;" /> 
   <br/>
   <!-- Frameworks / Backend -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" style="height:23px;" /> 
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" style="height:23px;" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" style="height:23px;" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" style="height:23px;" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" style="height:23px;" />
   <br/>
   <!-- Database / ORM -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="height:23px;" /> 
