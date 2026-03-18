@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="height:23px;" /> 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" style="height:23px;" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" style="height:23px;" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white" style="height:23px;" />
 </div>
 
 <h3>💻 Tools</h3>
